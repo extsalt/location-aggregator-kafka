@@ -5,7 +5,10 @@ package mndlgen.extsalt;
  */
 public class Main {
     public static void main(String... args) {
-        System.out.println("Mandira, this is you last diwali without me. After this, you going to stay with me forever");
+        System.out.println(
+                "Mandira, this is you last diwali without me. " +
+                        "After this, you going to stay with me forever"
+        );
     }
 }
 
